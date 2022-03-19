@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-main()
+int main(int args, char *argv{})
  {
 	print("Hello, world\n")
+	return 0;
  }
